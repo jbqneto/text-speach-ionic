@@ -1,0 +1,7 @@
+{
+  "name": "ng-voice-to-text",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
